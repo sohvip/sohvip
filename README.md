@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Sohvi
+### 👋 Hi, Sohvi here
 
 <img src="https://github.com/sohvip/sohvip/assets/95978191/4839bf0b-7e50-457f-8654-80dc16d0c49a" alt="Alolan Vulpix" width="175" align="right">
 
