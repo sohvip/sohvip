@@ -8,4 +8,4 @@
 
 ✨ My enthusiasm for learning makes me open-minded and ready to tackle new challenges. For me, they are opportunities for growth. 
 
-🛠️ Python, Django, Flask, PostgreSQL, HTML, CSS, JS, React
+🛠️ Python, Django, Flask, PostgreSQL, JS, React, HTML, CSS
